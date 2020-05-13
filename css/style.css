@@ -31,6 +31,7 @@ header {
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
+ 
 }
 
 .sidenav a {
@@ -380,9 +381,8 @@ text-align : center;
 .container4 {
   height: 2000px;
   background: #000000c7;
-}
+ 
 .container5 {
   height: 820px;
-  width: 1300px;
-
+  
 }
